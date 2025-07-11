@@ -1,1 +1,4 @@
 .venv
+.vscode
+.github
+work.ipynb
